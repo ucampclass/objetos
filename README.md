@@ -1,4 +1,8 @@
 
+# Instrucciones
+
+Crea un objeto con el nombre bootcamp con las siguientes propiedades
+
  const curso = {
 	nombre: Ucamp’,
 	tipo: ‘fullstack’,
