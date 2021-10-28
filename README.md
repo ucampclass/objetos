@@ -21,4 +21,4 @@ Muestra las propiedades nombre y tipo en un console.log.
 
 Ejecuta la función saludar. Esta función se le debe pasar un nombre
 
-Como ultimo, muestra la propiedad nombre del arreglo de modulos.
+Como ultimo, muestra la propiedad nombre del arreglo de modulos. Para esto deberas usar forEach
