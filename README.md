@@ -4,12 +4,12 @@ Crea un objeto con el nombre bootcamp con las siguientes propiedades
 
  ```
  const curso = {
-	nombre: Ucamp’,
-	tipo: ‘fullstack’,
+	nombre: 'Ucamp',
+	tipo: 'fullstack',
 	modulos: [
-		{ nombre: ‘css’, cursado: true },
-		{ nombre: ‘javascript’, cursado: true },
-        { nombre: ‘react’, cursado: false }
+		{ nombre: 'css', cursado: true },
+		{ nombre: 'javascript', cursado: true },
+        { nombre: 'react', cursado: false }
 ],
     saludar: (nombre) => {
         console.log(`Hola soy ${nombre}`)
